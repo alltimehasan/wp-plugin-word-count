@@ -25,6 +25,7 @@ add_filter( 'wordcount_heading', 'my_wordcount_heading' );
 ```
 
 Word Count: User can add their own tag
+
 Add this code into functions.php file in your theme
 
 ```php
@@ -53,6 +54,7 @@ add_filter( 'wordcount_reading_time_heading', 'my_wordcount_reading_time_heading
 ```
 
 Reading Time Count: User can add their own tag
+
 Add this code into functions.php file in your theme
 
 ```php
